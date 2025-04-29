@@ -1,6 +1,6 @@
 Beginner:
 
-picoCTF - https://play.picoctf.org/
+picoCTF - https://play.picoctf.org/ \n
 TryHackMe - https://tryhackme.com/
 CTFlearn - https://ctflearn.com/
 Hacker101 CTF - https://ctf.hacker101.com/
