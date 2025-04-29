@@ -1,43 +1,43 @@
 Beginner:
 
 picoCTF - https://play.picoctf.org/ <br>
-TryHackMe - https://tryhackme.com/
-CTFlearn - https://ctflearn.com/
-Hacker101 CTF - https://ctf.hacker101.com/
-LegitBS - https://legitbs.net/
-OverTheWire - https://overthewire.org/
-Crackmes.one - https://crackmes.one/
-CyberTalents - https://cybertalents.com/challenges/all
+TryHackMe - https://tryhackme.com/ <br>
+CTFlearn - https://ctflearn.com/ <br>
+Hacker101 CTF - https://ctf.hacker101.com/ <br>
+LegitBS - https://legitbs.net/ <br>
+OverTheWire - https://overthewire.org/ <br>
+Crackmes.one - https://crackmes.one/ <br>
+CyberTalents - https://cybertalents.com/challenges/all <br>
 
 Intermediate:
 
-TryHackMe - https://tryhackme.com/
-Flare-On - https://flare-on11.ctfd.io/
-CTFtime - https://ctftime.org/
-Pwn College - https://pwn.college/
-OWASP WebGoat - https://owasp.org/www-project-webgoat/
-PentesterLab - https://pentesterlab.com/exercises
-CMD Challenge - https://cmdchallenge.com/
-Hacksplaining - https://hacksplaining.com/lessons
+TryHackMe - https://tryhackme.com/ <br>
+Flare-On - https://flare-on11.ctfd.io/ <br>
+CTFtime - https://ctftime.org/ <br>
+Pwn College - https://pwn.college/ <br>
+OWASP WebGoat - https://owasp.org/www-project-webgoat/ <br>
+PentesterLab - https://pentesterlab.com/exercises <br>
+CMD Challenge - https://cmdchallenge.com/ <br>
+Hacksplaining - https://hacksplaining.com/lessons <br>
 
 Advanced:
 
-Hack The Box CTF - https://ctf.hackthebox.com/
-VulnHub - https://vulnhub.com/
-Exploit Exercises - https://exploit-exercises.com/
-PortSwigger Web Security - https://portswigger.net/web-security/dashboard
-Challenges.re - https://challenges.re/
-CryptoHack - https://cryptohack.org/
-CryptoPals - https://cryptopals.com/
-Rubiya CTF - https://los.rubiya.kr/
+Hack The Box CTF - https://ctf.hackthebox.com/ <br>
+VulnHub - https://vulnhub.com/ <br>
+Exploit Exercises - https://exploit-exercises.com/ <br>
+PortSwigger Web Security - https://portswigger.net/web-security/dashboard <br>
+Challenges.re - https://challenges.re/ <br>
+CryptoHack - https://cryptohack.org/ <br>
+CryptoPals - https://cryptopals.com/ <br>
+Rubiya CTF - https://los.rubiya.kr/ <br>
 
 Expert:
 
-UnderTheWire - https://underthewire.tech/
-AttackDefense - https://attackdefense.com/
-FBCTF GitHub Archive - https://github.com/facebookarchive/fbctf
-Awesome CTF GitHub Repository - https://github.com/apsdehal/awesome-ctf
-Awesome CTF Resources GitHub - https://github.com/devploit/awesome-ctf-resources
-Guy in a Tuxedo GitHub - https://github.com/guyinatuxedo
-Pwn.tn - https://pwn.tn/
-SmashTheStack - http://www.smashthestack.org/main.html
+UnderTheWire - https://underthewire.tech/ <br>
+AttackDefense - https://attackdefense.com/ <br>
+FBCTF GitHub Archive - https://github.com/facebookarchive/fbctf <br>
+Awesome CTF GitHub Repository - https://github.com/apsdehal/awesome-ctf <br>
+Awesome CTF Resources GitHub - https://github.com/devploit/awesome-ctf-resources <br>
+Guy in a Tuxedo GitHub - https://github.com/guyinatuxedo <br>
+Pwn.tn - https://pwn.tn/ <br>
+SmashTheStack - http://www.smashthestack.org/main.html <br>
